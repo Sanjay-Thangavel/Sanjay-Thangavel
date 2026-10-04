@@ -1,6 +1,6 @@
 # Hi, I'm Sanjay Thangavel 👋
 
-### Technology Analyst @ Fintech | Data Engineering | Machine Learning | AI
+### Active learner
 
 I'm a Technology Analyst strong interest in **Data Science, Machine Learning, and Artificial Intelligence**.
 
@@ -12,7 +12,7 @@ I enjoy working at the intersection of **data, software engineering, and AI** �
 
 ## 🚀 About Me
 
-- 💼 **Technology Analyst @ Citi**
+- 💼 **Technology Analyst @ Fintech**
 - 📊 Focused on **Data Engineering, ETL & Big Data**
 - 🤖 Exploring **Machine Learning, Deep Learning & Generative AI**
 - 🐍 Strong interest in **Python-based data and ML workflows**
