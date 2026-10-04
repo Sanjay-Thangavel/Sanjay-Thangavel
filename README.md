@@ -2,11 +2,7 @@
 
 ### Active learner
 
-I'm a Technology Analyst strong interest in **Data Science, Machine Learning, and Artificial Intelligence**.
-
-My professional experience is primarily focused on building and optimizing **data pipelines, ETL workflows, data migration processes, and data-driven applications**, while my personal projects explore **machine learning, deep learning, computer vision, and generative AI**.
-
-I enjoy working at the intersection of **data, software engineering, and AI** — turning raw data into reliable pipelines, useful applications, and intelligent systems.
+I'm a Technology Analyst strong interest in **Data Science, Machine Learning, Artificial Intelligence and Full-stack**.
 
 ---
 
